@@ -1,7 +1,7 @@
 # Power_BI
 Projeto Power BI Analyst - Relatório gerencial de vendas.
 
-Este repositório tem como objetivo demonstrar um de meus projetos, proposto como desafio pela @DIO
+Este repositório tem como objetivo demonstrar um de meus projetos, proposto como desafio pela @dio
 
 Na imagem desse read me, apresento apenas um print do Relatório Analyst Power BI criado.
 
