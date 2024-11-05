@@ -5,7 +5,8 @@ Este repositório tem como objetivo demonstrar um de meus projetos, proposto com
 
 Na imagem desse read me, apresento apenas um print do Relatório Analyst Power BI criado.
 
-![Imagem do WhatsApp de 2024-11-05 à(s) 19 18 31_e719be43](https://github.com/user-attachments/assets/5d1673ec-54bb-4cb8-a506-391c87818487)
+![Imagem do WhatsApp de 2024-11-05 à(s) 20 53 36_269f16fc](https://github.com/user-attachments/assets/11eb9d10-2779-4511-99ea-5a04672e6728)
+
 
 
 
